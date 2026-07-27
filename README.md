@@ -1,7 +1,7 @@
-# Hi, I'm Mouxiang (Fabian) Yan 👋
-> **Fight for a brighter future.**
+# Hi, I'm Mouxiang (Auden) Yan 👋
+> **Audere.**
 
-🎓 **Student** | 🚀 **Go & TS** | 🛠️ **Java & Backend** 
-🌐 **ZH** (Native) | **EN** (Learning) | **PT-BR** (Exploring)
+🎓 **Student** | 🚀 **TS** | 🛠️ **Java & Backend** 
+🌐 **ZH** (Native) | **EN** (Learning) | **FR** (Exploring)
 
-😊 Feel free to call me **Fabian**. Let’s keep improving together!
+😊 Feel free to call me **Auden**. Let’s keep improving together!
